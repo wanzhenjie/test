@@ -8,4 +8,8 @@ public class test {
     public boolean equals(Object obj) {
         return super.equals(obj);
     }
+
+    public  int testd(){
+        return 0;
+    }
 }
