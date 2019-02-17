@@ -6,10 +6,16 @@ public class test {
 
     @Override
     public boolean equals(Object obj) {
+        int a=1+1;
         return super.equals(obj);
     }
 
     public  int testd(){
         return 0;
+    }
+
+    public date testdate()
+    {
+        new date();
     }
 }
